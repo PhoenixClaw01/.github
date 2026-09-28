@@ -10,4 +10,4 @@ Building sovereign, local-first AI systems and agent-native infrastructure.
 
 We share what is proven and useful. Field work includes tools for small businesses and local AI operators. Private ops stay private.
 
-Invisible founder. No hype.
+
